@@ -1,0 +1,24 @@
+---
+title: "Transformational Leadership"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Teammitglieder
+
+Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapinaya Ganeshabalan
+
+#### 1. Forschungsfrage
+
+Inwiefern hat der positive Einfluss des "Transformational Leadership" im Hinblick auf "Job Crafting" Auswirkungen auf die Work-Life-Balance der Mitarbeiter?
+
+#### Faktorenraum 
+
+![Faktorenraum Transformational Leadership](https://www.draw.io/#HGapinaya%2FTransformationalLeadershipWS1920%2Fmaster%2FFaktorenraum%20Transformational%20Leadership.drawio)
+
+
+
+
