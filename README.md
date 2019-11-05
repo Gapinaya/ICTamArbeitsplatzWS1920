@@ -6,7 +6,7 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### 1. Forschungsfrage
 
-Inwiefern hat der positive Einfluss des "Transformational Leadership" im Hinblick auf "Job Crafting" Auswirkungen auf die Work-Life-Balance der Mitarbeiter?
+Welchen Einfluss haben unterschiedliche Motivationsstile bei Arbeitnehmern auf die Reaktion auf transformational leaders und die work-life-balance?
 
 #### Faktorenraum 
 
