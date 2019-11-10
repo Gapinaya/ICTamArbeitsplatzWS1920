@@ -30,3 +30,5 @@ rsconnect/
 README.html
 gelbeTapeteWS1920.Rproj
 data
+#Einstellungen Mac Computer
+.DS_Store
