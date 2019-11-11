@@ -10,4 +10,4 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### Faktorenraum 
 
-![Faktorenraum Transformational Leadership](https://github.com/Gapinaya/TransformationalLeadershipWS1920/blob/master/Faktorenraum%20Transformational%20Leadership.jpg)
+![Faktorenraum Transformational Leadership](https://github.com/Gapinaya/TransformationalLeadershipWS1920/blob/master/Images/Faktorenraum%20Transformational%20Leadership.jpg)
