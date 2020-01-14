@@ -16,7 +16,7 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### Hypothese 1
 
-**Hypothese:** Mitarbeiter, die am Arbeitsplatz oft neuen Herausforderungen gegenüberstehen und von ihrem Arbeitgeber motiviert werden, haben weniger Zeit für ihre Freizeitgestaltung, Ruhephasen und emotionale Beziehungen. **Verfahren**: Two-way MANOVA. **H0:** Häufig neue Herausforderungen am Arbeitsplatz und Motivation durch den Arbeitgeber haben keinen Einfluss auf die Freizeitgestaltung, Ruhephasen und emotionale Beziehungen des Mitarbeiters. **H1:** Häufig neue Herausforderungen am Arbeitsplatz und Motivation durch den Arbeitgeber haben einen Einfluss auf die Freizeitgestaltung, Ruhephasen und emotionale Beziehungen des Mitarbeiters.  
+**Hypothese:** Mitarbeiter, die regelmäßig zusätzliche Aufgaben am Arbeitsplatz übernehmen, haben weniger Zeit für ihre Freizeitgestaltung und weniger Ruhephasen. **Verfahren**: One-way MANOVA. **H0:** Die regelmäßige Übernahme zusätzlicher Aufgaben am Arbeitsplatz hat keinen Einfluss auf die Freizeitgestaltung und Ruhephasen des Mitarbeiters. **H1:** Die regelmäßige Übernahme zusätzlicher Aufgaben am Arbeitsplatz hat einen Einfluss auf die Freizeitgestaltung und Ruhephasen des Mitarbeiters.
 
 #### Hypothese 2
 
@@ -24,7 +24,7 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### Hypothese 3
 
-**Hypothese:** Arbeitnehmer, deren Überstunden finanziell abgegolten werden, neigen eher dazu, Überstunden zu machen als Arbeitnehmer, deren Überstunden die durch Urlaub abgegolten werden. **Verfahren:** Unverbundener t-Test. **H0:** Die Abgeltungsart hat keinen Einfluss auf die genommenen Überstunden.**H1:** Die Abgeltungsart hat einen Einfluss auf die genommenen Überstunden.
+**Hypothese:** Ausgezahlte Überstunden beeinflussen das Gefühl, ständig erreichbar sein zu müssen negativ. **Verfahren:** t-Test oder one-way Anova. **H0:** Ausgezahlte Überstunden haben keinen Einfluss auf das Gefühl, ständig erreichbar sein zu müssen. **H1:** Ausgezahlte Überstunden haben einen Einfluss auf das Gefühl, ständig erreichbar sein zu müssen.
 
 #### Hypothese 4
 
