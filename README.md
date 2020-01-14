@@ -28,8 +28,8 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### Hypothese 4
 
-**Hypothese:** Zufriedenheit am Arbeitsplatz hat einen positiven Einfluss auf soziales Engagement im Privatleben. **Verfahren:** **H0:** Zufriedenheit am Arbeitsplatz hat keinen Einfluss auf soziales Engagement. **H1:** Zufriedenheit am Arbeitsplatz hat einen Einfluss auf soziales Engagement.
+**Hypothese:** Zufriedenheit am Arbeitsplatz führt dazu, dass in der Freizeit nicht oft an die Arbeit gedacht wird. **Verfahren:** One-way Anova oder t-Test. **H0:** Zufriedenheit am Arbeitsplatz hat keinen Einfluss darauf, ob in der Freizeit oft an die Arbeit gedacht wird. . **H1:** Zufriedenheit am Arbeitsplatz hat einen Einfluss darauf, ob in der Freizeit oft an die Arbeit gedacht wird.
 
 #### Hypothese 5
 
-**Hypothese:** Ruhephasen im Privatleben beeinflussen die Zufriedenheit am Arbeitsplatz positiv. **Verfahren:** **H0:** Ruhephasen im Privatleben haben keinen Einfluss auf die Zufriedenheit am Arbeitsplatz. **H1:** Ruhephasen im Privatleben haben einen Einfluss auf die Zufriedenheit am Arbeitsplatz.
+**Hypothese:** Ruhephasen im Privatleben beeinflussen die Zufriedenheit am Arbeitsplatz positiv. **Verfahren:** One-way Anova oder t-Test. **H0:** Ruhephasen im Privatleben haben keinen Einfluss auf die Zufriedenheit am Arbeitsplatz. **H1:** Ruhephasen im Privatleben haben einen Einfluss auf die Zufriedenheit am Arbeitsplatz.
