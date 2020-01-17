@@ -21,7 +21,7 @@ Lena Pohlmann, Linda Sinani, Xenia Gessel, Vanessa Halle, Laura Stuhlmann, Gapin
 
 #### Hypothese 2
 
-**Hypothese:** Alter, Beruf und Familienstand beeinflussen den Stresspegel am Arbeitsplatz negativ. **Verfahren:** Three-way ANOVA. **H0:** Alter, Beruf und Familienstand haben keinen Einfluss auf den Stresspegel am Arbeitsplatz. **H1:** Alter, Beruf und Familienstand haben einen Einfluss auf den Stresspegel am Arbeitsplatz.
+**Hypothese:** Beruf und Familienstand beeinflussen den Stresspegel am Arbeitsplatz negativ. **Verfahren:** Three-way ANOVA. **H0:** Beruf und Familienstand haben keinen Einfluss auf den Stresspegel am Arbeitsplatz. **H1:** Beruf und Familienstand haben einen Einfluss auf den Stresspegel am Arbeitsplatz.
 **Feedback:** Ebenfalls sehr schön!
 
 #### Hypothese 3
